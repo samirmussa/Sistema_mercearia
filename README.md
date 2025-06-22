@@ -34,4 +34,4 @@ Abaixo, algumas imagens do sistema em funcionamento:
 Para executar o sistema, basta garantir que o Python esteja instalado e rodar o arquivo principal:
 
 ```bash
-python main.py
+python3 main.py
