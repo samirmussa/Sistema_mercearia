@@ -25,7 +25,7 @@ Abaixo, algumas imagens do sistema em funcionamento:
 ![Controle de Stock](imagens/stock.png)
 *Gestão e controle de estoque*
 
-> 💡 Certifique-se de que as imagens estejam dentro de uma pasta chamada `imagens/` no mesmo diretório do `README.md`.
+
 
 ---
 
