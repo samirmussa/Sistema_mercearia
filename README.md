@@ -14,6 +14,11 @@ Este projeto consiste em um sistema desktop desenvolvido em **Python**, utilizan
 - **Python 3**
 - **Tkinter** (GUI nativa do Python)
 
+
+### Database
+Para poder utilizar a database sera necessario baixar o Sqlite
+- **SQLite**
+
 ### 📸 Capturas de Tela
 
 Abaixo, algumas imagens do sistema em funcionamento:
@@ -24,8 +29,6 @@ Abaixo, algumas imagens do sistema em funcionamento:
 
 ![Controle de Stock](imagens/stock.png)
 *Gestão e controle de estoque*
-
-
 
 ---
 
