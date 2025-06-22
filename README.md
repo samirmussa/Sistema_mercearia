@@ -18,8 +18,6 @@ Este projeto consiste em um sistema desktop desenvolvido em **Python**, utilizan
 
 Abaixo, algumas imagens do sistema em funcionamento:
 
-![Tela de Login](imagens/login.png)
-*Tela de autenticação de usuário*
 
 ![Tela do Caixa](imagens/caixa.png)
 *Interface de vendas (caixa)*
